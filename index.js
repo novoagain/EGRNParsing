@@ -1,4 +1,4 @@
-//iterates through uniform urls which differ only by some id from each other
+//iterates through uniform urls which differ from each other only by some id
 
 const puppeteer = require('puppeteer');
 const userAgent = require('user-agents');
